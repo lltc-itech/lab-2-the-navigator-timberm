@@ -1,4 +1,4 @@
-# Instructions  
+# Lab 2 - The Navigator
 
 You have two projects to complete.
 
@@ -21,10 +21,31 @@ Hints:
 
 ## Part 2 - Symbols 
 
-In the `ampersand.html` file, write HTML code that will display the following in a browser window:
+This one is more like a little puzzle. In the `ampersand.html` file, write HTML code that will display the following in a browser window:
 
 ![ampersand](ampersand.png)
 
-## Keywords from Chapter 2
+## Keywords for Unit 2
 
-![Keywords](keywords.png)
+* structure
+* presentation
+* CSS
+* semantics
+* `<b>`
+* `<i>`
+* `<strong>`
+* `<em>`
+* class
+* tables
+* lists
+* `<article>`
+* `<section>`
+* `<nav>`
+* `<aside>`
+* `<header>`
+* `<hgroup>`
+* `<footer>`
+* `<a>`
+* href
+* URLs (absolute and document relative)
+* reserved characters
